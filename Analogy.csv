@@ -1,0 +1,82 @@
+ANALOGY,,,,,,,
+Question,Option A,Option B,Option C,Option D,Option E,Answer,Bin
+LAVA : VOLCANO ::,ice : glass,cascade : precipice,steam : geyser,avalanche : ice,snowstorm : lightning,C,1
+INTRODUCTION : CONCLUSION ::,announcement : news,greeting : farewell,birth : marriage,landing : accolade,companionship : termination,B,1
+DEGREE : TEMPERATURE ::,nutrient : nourishment,scale : length,calorie : menu,decibel : sound,headphones : conversation,D,1
+ABSTINENCE : DRUNKENNESS ::,celibacy : promiscuity,indulgence : fatness,withdrawal : annexation,entertainment : dismay,thrift : frivolity,A,1
+BARK : DOG ::,sty : pig,skin : cat,nest : bird,school : fish,hoot : owl,E,1
+REFREE : FIELD ::,experimenter : result,arbitrator : deadlock,gladiator : fight,professor : classroom,judge : courtroom,E,1
+COMPREHEND : UNINTELLIGIBLE ::,swallow : edible,circumvent : risky,accumulate : insignificant,control : ungovernable,suspect : untrustworthy,D,2
+MERCHANDISE : SHOPLIFT ::,conversation : eavesdrop,property : trespass,debate : slander,suspect : apprehend,onlooker : subpoena,B,2
+SWELL : BURST ::,assimilate : weaken,pollute : heal,promote : conceive,thaw : freeze,stumble : fall,E,1
+RETICENT : TALK ::,abstemious : devour,tasteless : savor,likely : conjecture,cranky : grumble,contumacious : revolt,A,1
+RECTANGLE : SQUARE ::,sphere : circle,tub : shower,sonnet : poem,hypotenuse : triangle,magazine : article,C,2
+SEMINARY : THEOLOGIAN ::,academy : cadet,courtroom : witness,sanitarium : patient,conservatory : artist,laboratory : researcher,D,2
+SHARD : POTTERY ::,hill : cliff,ash : fire,hair : wig,canal : river,splinter : wood,E,1
+OBTRUSIVE : IGNORE ::,autocratic : govern,inconsequential : denigrate,elusive : capture,suspicious : forecast,appropriated : usurp,C,2
+KARAT : GOLD ::,proof : alcohol,liter : beer,pound : sugar,meter : rope,ream : paper,E,1
+LOGO : COMPANY ::,fabric : weaver,catalogue : stockist,trademark : manufacturer,landmark : surveyor,painting : artist,C,1
+SHRINE : PILGRIM ::,peak : climber,voting : pollster,debacle : loser,highway : driver,dive : swimmer,A,2
+HATCH : HOLD ::,rudder : anchor,boat : barge,courtyard : terrace,door : room,cellar : attic,D,1
+CHANT : SPEAK ::,march : walk,heed : hear,wince : dodge,squeeze : touch,blink : view,A,1
+INCUMBENT : OFFICE ::,monarch : throne,president : company,supervisor : employee,captain : army,owner : equity,A,1
+APOSTATE : RELIGION ::,offender : order,atheist : faith,deserter : duty,adherent : rule,deifier : hero,C,2
+BIRD : AVIARY ::,lion : circus,bear : cave,pig : sty,hare : burrow,rodent : silo,C,1
+JEER : DERISION ::,worry : check,tremble : menace,slouch : alertness,reprimand : censure,glower : agony,D,1
+SWARM : INSECT ::,match : player,picnic : forest,throng : person,dog : puppy,vase : bloom,C,1
+IRASCIBLE : PROVOKED ::,credulous : convinced,reliable : disproved,immoral : suppressed,impersonal : described,taunting : amused,A,1
+EXPEL : SCHOOL ::,export : factory,exile : nation,escape : penitentiary,vacate : building,dodge : taxes,B,1
+COLD : FROSTBITE ::,river bed : sand,star : twinkling,laceration : wound,heat : sunburn,rain : overcoat,D,1
+BACTERIA : DECOMPOSITION ::,volcano : eruption,antibiotic : injection,yeast : fermentation,oxygen : treatment,trees : deforestation,C,1
+GRADUATE : DIPLOMA ::,aggressor : compromise,property owner : deed,editor : byline,elector : vote,librarian : volume,B,1
+COLOR : WAVELENGTH ::,pitch : wavelength,diameter : circumference,angle : acuteness,power : generation,string : vibration,A,1
+PLAIN: AUSTERE ::,neutral : detached,clean : sterile,lonely : gloomy,deserted : barren,eloquent : talkative,B,2
+EQUANIMITY : DISCOMPOSE ::,equation : invert,equitableness : oppose,prevarication : diminish,equilibrium : unbalance,similarity : verify,D,1
+RIDDLED : HOLES ::,untangled : ties,furrowed : articles,imperfect : repairs,pitted : indentations,sharpened : lacerations,D,1
+DEFENSE : BASTION ::,storage : arsenal,supply : anchorage,concealment : citadel,embarkation : asylum,fortification : pavilion,A,2
+RELAPSE : CONVALESCENCE ::,reiteration : monotony,stalemate : debate,dissonance : euphony,recidivism : rehabilitation,feudalism : modernization,D,2
+VAULT : THEFT ::,fort : aggression,spice : aroma,fence : dwelling,army : war,jail : sentence,A,3
+COMA : UNCONSCIOUSNESS ::,amnesia : exercise,delirium : confusion,paralysis : distress,hallucination : insensibility,fever : tranquility,B,2
+SPECKLE : SPOTS ::,demand : changes,perforate : stamps,emboss : planes,ornament : stripes,striate : grooves,E,1
+LACKEY : DEPENDENT ::,amateur : artist,groveler : petitioner,coward : delinquent,envoy : emissary,vicar : abbot,B,1
+SEDATIVE : SLEEP ::,challenging : knowledge,mnemonic : memory,dramatic : story,vocal : eloquence,harmonic : music,B,1
+STUTTER : SPEECH ::,blare : hearing,aroma : smell,astigmatism : sight,novocain : touch,salt : taste,C,1
+PARDON : FORGIVING ::,pilfer : jailed,overstate : retold,proof-read : mistaken,lie : untruthful,pray : kneeling,D,1
+PALATE : MOUTH ::,kerb : footpath,cockpit : aircraft,rivulet : dam ,hill : range,ceiling : room,E,1
+DETERIORATION : QUALITY,excitement : activity,gyration : bicyle,depreciation : value,meditation : devotion,blast : explosive,C,1
+VIGILANT : DANGER ::,frugal : indigence,compulsive : perfection,capricious : change,obliging : rapport,diligent : simplicity,A,1
+GUARD : PROTECT ::,chef : eat,pilot : steer,subordinate : command,attorney : retain,major : obey,B,1
+MALADROIT : SKILL ::,indignant : anger,irrational : intuition,lazy : weariness,glib : profundity,melancholy : despair,D,2
+IMPORTUNE : REQUEST ::,encourage : bargain,flatter : compliment,surrender : enslave,conciliate : placate,detect : chase,B,1
+INDIGENCE : FUNDS ::,allegiance : employment,avarice : possessions,lassitude : vigor,rehearsal : presentation,repudiation : hypothesis,C,1
+COLANDER : DRAIN ::,thermometer : calibrate,statue : sculpt,sluice : inundate,centrifuge : separate,television : broadcast,D,1
+ACROBAT : AGILITY ::,engineer : focus,mariner : navigation,judge : precedent,industrialist : credibility,surgeon : dexterity,E,1
+FAREWELL : VALEDICTION ::,oration : prediction,fiat : condescension,manifesto : indecision,stutter : heistation,praise : panegyric,E,1
+LUSTROUS : BURNISH ::,radiant : reflect,insensible : numb,boisterous : heckle,odious : sicken,winding : braid,B,1
+PIANO : HAMMER ::,gramophone : needle,car : horn,mouth : tongue,radio : amplifier,bell : clapper,E,1
+HYPOTHESIS : PROOF ::,remark : utterance,promise : fulfillment,prodding : necessity,implementation : purpose,endorsement : insurance,B,1
+CINNAMON : SPICE ::,cocoa : chocolate,lead : pencil,salt : mineral,beet : sugar,mica : mine,C,1
+NOVEL : FOREWORD ::,symphony : interlude,argument : verdict,statute : preamble,discourse : epilogue,movie : premiere,C,1
+CONGREGATION : WORSHIPPERS ::,personnel : employees,alms : philanthropists,performance : audience,puppetry : players,independence : crusaders,A,1
+TEMERITY : TIMID ::,alacrity : apathetic,stubbornness : eager,frankness : inept,obedience : skillful,tyranny : conceited,A,1
+VIABLE : LIVE ::,edible : eat,audible : speak,portable : convey,educable : learn,potable : drink,D,2
+ILLEGIBILITY : READING ::,impermeability : distillation,enumeration : ordering,indelibility : erasure,reactiveness : stimulation,reflectivity : visibility,C,1
+PATRIOT : COUNTRY ::,pagan : chastity,devotee : religion,recluse : companionship,disciple : pupil,patient : medication,B,1
+VINDICTIVE : VENGEANCE ::,dull : accomplished,hedonistic : pleasure,precocious : youth,interested : empathy,wicked : mercy,B,1
+JUDGE : GAVEL ::,detective : clue,physician : stethoscope,referee : whistle,soldier : epaulette,speaker : volume,C,1
+DILAPIDATED : RESTORATION ::,released : disclosure,shattered : collapse,extinguished : rekindling,conciliated : refreshment,sheltered : rehabilitation,C,2
+DUPE : CREDULITY ::,hero : passion,connoisseur : discrimination,philosopher : rhetoric,analyst : logistics,victor : abruptness,B,1
+FAULT : PERFECTION ::,stars : cosmos,spouse : annulment,matter : vacuum,candidate : vacancy,votes : election,C,1
+RANK : VALUE ::,shuffle : sequence,instruct : ability,sort : criterion,disjoin : amount,vote : opinion,C,1
+TAXONOMIST : CLASSIFY ::,mason : build,mimic : laugh,doctor : study,detective : pretend,convert : pray,A,1
+IRRESOLUTE : VACILLATE ::,barbaric : retaliate,mendacious : prevariate,charitable : reciprocate,moody : aggravate,thoughtful : mitigate,B,1
+ANTIBIOTIC : INFECTION ::,antibody : bruise,antidote : poisoning,purgative : eating,anticlimax : episode,aversion : fondness,B,1
+ARID : MOISTURE ::,stagnant : movement,gruesome : terror,unbiased : balance,damaged : blemish,plowed : irrigation,A,1
+PANTOMIMIST : VIEWER ::,accompanist : vocalist,critic : reviewer,humorist : librarian,anthologist : editor,storyteller : listener,E,1
+MUSEUM : PAINTING ::,safari : escort,supermarket : shopper,herd : cattle,river : stream,zoo : animal,E,1
+LITIGIOUS : LAWSUITS ::,fearful : phobias,culpable : punishments,childish : ambitions,contentious : quarrels,deceitful : prizes,D,1
+PARDON : SIN ::,resign : defeat,forgive : debt,forego : penalty,renounce : power,avoid : pleasure,B,2
+MOVEMENT : SYMPHONY ::,title : book,hymn : prayer,outline : drawing,idol : fresco,canto : poem,E,2
+LEGEND : MAP ::,volume : guidebook,profession : biography,glossary : text,column : essay,issue : print,C,1
+WHETSTONE : SHARPEN ::,pestle : grind,balloon : buoy,mill : screw,hinge : move,switch : guide,A,1
+EXERCISE : STRONG ::,perform : timid,guard : alert,decide : shrewd,drink : thristy,read : knowledgeable,E,1
