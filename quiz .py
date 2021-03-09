@@ -3,7 +3,7 @@ from tkinter import*
 
 top = Tk()
 top.title('QUIZ')
-df = pd.read_csv(r"F:\codes for py\Analogy.csv",delimiter=',')
+df = pd.read_csv(r"F:\codes for py\Analogy.csv",delimiter=',')#file location of the csv 
 i=0
 total=0
 qvar=[]
